@@ -17,6 +17,9 @@ cp .env.example .env
 
 # アプリケーションアーキテクチャ説明
 
+## アーキテクチャ図
+![Image](https://github.com/user-attachments/assets/61f34fcd-69f6-4722-9171-86e7e8810618)
+
 ## 1. フォルダ構成の概要
 
 ```
