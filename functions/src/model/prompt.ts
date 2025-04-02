@@ -1,6 +1,6 @@
 export const PROMPT = `
-1枚目の画像は人物の写真です。
-2枚目の画像は服の写真です。
+The first image is a picture of a person.
+The second image is a photo of clothing.
 
-生成した写真は、1枚目の画像の人物が2枚目の画像の服を着ている写真です。
+The generated photo is of the person in the first image wearing the clothing in the second image.
 `;

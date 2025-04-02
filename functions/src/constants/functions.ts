@@ -1,5 +1,5 @@
 export const CONSTANTS = {
-	APP_NAME: "Rich-Ranking.",
+	APP_NAME: "AI-Image-Generator.",
 	MAX_BATCH_SIZE: 500,
 	DEFAULT_REGION: "asia-northeast1",
 	DEFAULT_TIMEZONE: "Asia/Tokyo",
@@ -8,9 +8,7 @@ export const CONSTANTS = {
 } as const;
 
 export const FUNCTIONS = {
-	callSaveReceipt: "callSaveReceipt",
-	docCreatedReceipt: "docCreatedReceipt",
-	scheduleMidnight: "scheduleMidnight",
+	callGenImage: "callGenImage",
 } as const;
 
 export const SCHEDULE = {
